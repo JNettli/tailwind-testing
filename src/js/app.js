@@ -1,0 +1,1 @@
+document.getElementById('balance').textContent = 200;
